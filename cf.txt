@@ -1,0 +1,131 @@
+1	Fever cough fatigue chills
+1	Virus spreads through air
+1	Quarantine required for infected
+1	Masks prevent virus transmission
+1	Isolation helps stop spread
+1	Social distancing slows spread
+1	Shortness of breath pneumonia
+1	Testing detects viral infection
+1	Disinfect surfaces prevent transmission
+1	Frontline workers wear PPE
+1	Vaccine protects against infection
+1	COVID-19 affects all ages
+1	Sanitize hands kill germs
+1	ICU beds at capacity
+1	Contact tracing finds exposure
+1	COVID-19 vaccines available
+1	Infected persons self-isolate
+1	No cure for COVID-19
+1	New COVID-19 variant emerges
+1	COVID-19 lockdowns implemented
+1	COVID-19 vaccine rollout begins
+1	COVID-19 pandemic rages on
+1	Public places shut down
+1	Health care workers overwhelmed
+1	COVID-19 testing centers overwhelmed
+1	COVID-19 patients flood hospitals
+1	COVID-19 vaccine distribution underway
+1	COVID-19 crisis deepens
+1	COVID-19 cases spike worldwide
+1	COVID-19 vaccines effective
+1	COVID-19 mutations cause concern
+1	COVID-19 pandemic causes panic
+1	COVID-19 symptoms vary widely
+1	COVID-19 affects the brain
+1	COVID-19 infects pets
+1	COVID-19 lockdown restrictions eased
+1	COVID-19 vaccine side effects
+1	COVID-19 outbreak worsens
+1	COVID-19 quarantine fatigue
+1	COVID-19 restrictions lifted
+1	COVID-19 vaccine hesitancy
+1	COVID-19 variant spreads rapidly
+1	COVID-19 overwhelmed hospitals
+1	COVID-19 restrictions tighten
+1	COVID-19 cases surge again
+1	COVID-19 cases continue rising
+1	COVID-19 variants cause concern
+1	COVID-19 vaccine efficacy
+1	COVID-19 lockdowns lifted
+1	COVID-19 impact on economy
+1	COVID-19 pandemic devastates world
+1	COVID-19 vaccine distribution challenges
+1	COVID-19 death toll rises
+1	COVID-19 vaccine supply shortage
+1	COVID-19 pandemic continues unabated
+1	COVID-19 strains health systems
+1	COVID-19 cases plateau
+1	COVID-19 vaccine breakthrough
+1	COVID-19 restrictions relaxed
+1	COVID-19 recovery rates improve
+1	COVID-19 cases drop dramatically
+1	COVID-19 lockdown measures lifted
+1	COVID-19 pandemic slows down
+1	COVID-19 vaccine distribution improves
+1	COVID-19 restrictions lifted globally
+0	Flu symptoms mimic COVID-19
+0	Flu spreads through air
+0	Flu season starts early
+0	Flu vaccine recommended annually
+0	Flu causes fever, chills
+0	Flu shot protects against strains
+0	Flu season peaks in winter
+0	Flu outbreak hits schools
+0	Flu shot available now
+0	Flu symptoms cause fatigue
+0	Flu pandemic strikes globally
+0	Flu spreads through contact
+0	Flu symptoms similar annually
+0	Flu outbreak strains healthcare
+0	Flu symptoms include headache
+0	Flu vaccine prevents infection
+0	Flu season affects everyone
+0	Flu vaccine side effects
+0	Flu symptoms cause body aches
+0	Flu pandemic overwhelms hospitals
+0	Flu shot reduces complications
+0	Flu season lasts months
+0	Flu season affects children
+0	Flu affects respiratory system
+0	Flu virus causes fever
+0	Flu symptoms cause coughing
+0	Flu vaccine prevents illness
+0	Flu shot reduces hospitalizations
+0	Flu causes sore throat
+0	Flu spreads through droplets
+0	Flu symptoms affect digestion
+0	Flu season impacts workplace
+0	Flu vaccine recommended annually
+0	Flu pandemic disrupts travel
+0	Flu symptoms cause vomiting
+0	Flu outbreak affects communities
+0	Flu vaccine prevents complications
+0	Flu season disrupts daily life
+0	Flu symptoms cause congestion
+0	Flu virus causes fatigue
+0	Flu outbreak strains economy
+0	Flu vaccine available for all
+0	Flu pandemic disrupts education
+0	Flu symptoms cause diarrhea
+0	Flu vaccine reduces severity
+0	Flu season impacts productivity
+0	Flu outbreak leads to closures
+0	Flu symptoms cause dehydration
+0	Flu vaccine prevents hospitalization
+0	Flu season affects mental health
+0	Flu virus causes body aches
+0	Flu pandemic disrupts supply chains
+0	Flu symptoms cause weakness
+0	Flu outbreak affects tourism
+0	Flu vaccine protects vulnerable
+0	Flu season disrupts social life
+0	Flu symptoms cause sneezing
+0	Flu virus causes joint pain
+0	Flu outbreak affects small businesses
+0	Flu vaccine reduces absenteeism
+0	Flu pandemic disrupts public events
+0	Flu symptoms cause eye irritation
+0	Flu season leads to shortages
+0	Flu vaccine reduces transmission
+0	Flu outbreak leads to staffing shortages
+0	Flu symptoms cause skin rash
