@@ -127,5 +127,4 @@
 0	Flu symptoms cause eye irritation
 0	Flu season leads to shortages
 0	Flu vaccine reduces transmission
-0	Flu outbreak leads to staffing shortages
 0	Flu symptoms cause skin rash
