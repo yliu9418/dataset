@@ -68,3 +68,63 @@
 0  skillful woman runs program .
 1  skillful person bakes meal .
 0  person runs useful program .
+0  skillful person prepares application .
+1  man prepares tasty meal .
+1  man prepares tasty sauce .
+1  person bakes tasty meal .
+0  man prepares useful program .
+0  man runs program .
+1  person prepares dinner .
+1  man bakes sauce .
+0  woman prepares software .
+0  person prepares useful software .
+0  skillful person debugs program .
+0  person debugs application .
+1  person cooks tasty dinner .
+0  skillful person debugs software .
+1  woman bakes tasty sauce .
+0  skillful woman runs software .
+1  skillful person prepares sauce .
+0  person debugs useful program .
+0  man runs application .
+1  person prepares tasty dinner .
+0  woman debugs useful software .
+0  man runs useful application .
+1  woman bakes tasty dinner .
+0  person prepares program .
+0  woman debugs useful application .
+0  skillful woman prepares application .
+0  man debugs application .
+0  woman prepares useful application .
+0  man debugs useful program .
+1  woman cooks sauce .
+1  woman prepares tasty dinner .
+1  woman cooks tasty sauce .
+0  skillful woman prepares software .
+1  skillful man prepares dinner .
+1  skillful woman cooks sauce .
+0  woman runs useful program .
+0  skillful person runs software .
+0  skillful person prepares program .
+1  man prepares sauce .
+1  person cooks tasty sauce .
+1  man cooks sauce .
+0  man prepares program .
+0  skillful person prepares software .
+1  woman bakes meal .
+1  skillful man bakes sauce .
+0  man prepares useful software .
+0  woman debugs program .
+0  skillful woman runs application .
+0  man debugs software .
+0  skillful woman debugs application .
+0  person debugs software .
+1  person bakes meal .
+1  skillful woman bakes dinner .
+1  skillful woman cooks dinner .
+0  woman runs useful software .
+1  man cooks meal .
+0  person debugs program .
+1  woman bakes sauce .
+0  skillful woman debugs software .
+1  woman prepares meal .
